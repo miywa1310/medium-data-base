@@ -10,35 +10,35 @@
       {
         "id": 2,
         "fullName": "Jane Smith",
-        "avatar": "https://i.postimg.cc/0jKsXwWx/pexels-photo-2379005.jpg",
+        "avatar": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_images/2018-09/shutterstock_648907024.jpg?itok=7lrLYx-B",
         "job": "Backend Developer",
         "new": false
       },
       {
         "id": 3,
         "fullName": "Michael Brown",
-        "avatar": "https://i.postimg.cc/0jKsXwWx/pexels-photo-2379005.jpg",
+        "avatar": "https://t3.ftcdn.net/jpg/02/43/12/34/360_F_243123463_zTooub557xEWABDLk0jJklDyLSGl2jrr.jpg",
         "job": "Full Stack Developer",
         "new": true
       },
       {
         "id": 4,
         "fullName": "Emily Johnson",
-        "avatar": "https://i.postimg.cc/0jKsXwWx/pexels-photo-2379005.jpg",
+        "avatar": "https://images.pexels.com/photos/712513/pexels-photo-712513.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
         "job": "UI/UX Designer",
         "new": false
       },
       {
         "id": 5,
         "fullName": "David Wilson",
-        "avatar": "https://i.postimg.cc/0jKsXwWx/pexels-photo-2379005.jpg",
+        "avatar": "https://images.pexels.com/photos/1222271/pexels-photo-1222271.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
         "job": "DevOps Engineer",
         "new": true
       },
       {
         "id": 6,
         "fullName": "Sarah Davis",
-        "avatar": "https://i.postimg.cc/0jKsXwWx/pexels-photo-2379005.jpg",
+        "avatar": "https://images.pexels.com/photos/1065084/pexels-photo-1065084.jpeg?auto=compress&cs=tinysrgb&w=800",
         "job": "JavaScript Specialist",
         "new": false
       }
